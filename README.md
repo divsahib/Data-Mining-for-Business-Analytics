@@ -60,16 +60,16 @@ This course assumes a reasonable knowledge of Python. If you need a refresher, c
 
 ## Assignments
 ### **Assignment 1 - Feedback**
-- Feedback File: [[Link to Assignment 1 Feedback](url)]
+- Feedback File: [[Link to Assignment 1 Feedback](https://georgebrowncollege-my.sharepoint.com/:f:/g/personal/101600320_georgebrown_ca/EmhRlA35M_hJg65AIBFq0SMBpZOzVdfD6NFog8IK83hblQ?e=S9d7r6)]
 
 ### **Assignment 2 - Feedback**
-- Feedback File: [[Link to Assignment 2 Feedback](url)]
+- Feedback File: [[Link to Assignment 2 Feedback](https://georgebrowncollege-my.sharepoint.com/:f:/g/personal/101600320_georgebrown_ca/EmhRlA35M_hJg65AIBFq0SMBpZOzVdfD6NFog8IK83hblQ?e=S9d7r6)]
 
 ### **Assignment 3 - Feedback**
-- Feedback File: [[Link to Assignment 3 Feedback](url)]
+- Feedback File: [[Link to Assignment 3 Feedback](https://georgebrowncollege-my.sharepoint.com/:f:/g/personal/101600320_georgebrown_ca/EmhRlA35M_hJg65AIBFq0SMBpZOzVdfD6NFog8IK83hblQ?e=S9d7r6)]
 
 ### **Assignment 4 - Feedback**
-- Feedback File: [[Link to Assignment 4 Feedback](url)]
+- Feedback File: [[Link to Assignment 4 Feedback](https://georgebrowncollege-my.sharepoint.com/:f:/g/personal/101600320_georgebrown_ca/EmhRlA35M_hJg65AIBFq0SMBpZOzVdfD6NFog8IK83hblQ?e=S9d7r6)]
 
 ## Additional Resources
 - NumPy Quick Reference: [GitHub Link]
