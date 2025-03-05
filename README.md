@@ -56,7 +56,7 @@ This course assumes a reasonable knowledge of Python. If you need a refresher, c
 - Lecture Notes
 - Lab Notebook
 - Recommended Reading/Videos
-  - [Classification Trees Explained with Gini Impurity](url)
+  - [Classification Trees Explained with Gini Impurity](https://www.youtube.com/watch?v=_L39rN6gz7Y)
 
 ## Assignments
 ### **Assignment 1 - Feedback**
