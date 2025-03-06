@@ -54,11 +54,13 @@ This course assumes a reasonable knowledge of Python. If you need a refresher, c
 
 ### **Class 8: Decision Trees Classification**
 - [Lecture Notes](https://georgebrowncollege-my.sharepoint.com/:f:/g/personal/101600320_georgebrown_ca/EuzUPjBqFUhEvwItj6t0uJYBIHUbPr0bEQMw_fAxDXVvBQ?e=sTFQcK)
-- Lab Notebook
+- [Lab Notebook](https://colab.research.google.com/drive/1d5a0EcYr8LcUB70okx1O4Slawgi-T13W#scrollTo=i213ZygtifU-)
 - Recommended Reading/Videos
   - [Classification Trees Intro + Gini Impurity](https://www.youtube.com/watch?v=_L39rN6gz7Y)
+  - [How to Build Your First Decision Tree in Python (scikit-learn)](https://www.youtube.com/watch?v=YkYpGhsCx4c)
   - [Decision Tree Cassification Part 1 (Before Code)](https://www.youtube.com/watch?v=ZVR2Way4nwQ)
-  - [Decision Tree Cassification Part 2 (With Hands-On Code)](https://www.youtube.com/watch?v=sgQAhG5Q7iY)
+  - [Decision Tree Cassification Part 2 (With Hands-On Code without sklearn)](https://www.youtube.com/watch?v=sgQAhG5Q7iY)
+
 
 ## Assignments
 ### **Assignment 1 - Feedback**
