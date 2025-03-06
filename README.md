@@ -52,11 +52,13 @@ This course assumes a reasonable knowledge of Python. If you need a refresher, c
 - Lab Notebook
 - Recommended Reading/Videos
 
-### **Class 8**
-- Lecture Notes
+### **Class 8: Decision Trees Classification**
+- [Lecture Notes](https://georgebrowncollege-my.sharepoint.com/:f:/g/personal/101600320_georgebrown_ca/EhQfXdLzR75Ou9BzseFU3S8B-KbmJFs6mv-DADj1GB2Pmg?e=MyqSJ4)
 - Lab Notebook
 - Recommended Reading/Videos
-  - [Classification Trees Explained with Gini Impurity](https://www.youtube.com/watch?v=_L39rN6gz7Y)
+  - [Classification Trees Intro + Gini Impurity](https://www.youtube.com/watch?v=_L39rN6gz7Y)
+  - [Decision Tree Cassification Part 1 (Before Code)](https://www.youtube.com/watch?v=ZVR2Way4nwQ)
+  - [Decision Tree Cassification Part 2 (With Hands-On Code)](https://www.youtube.com/watch?v=sgQAhG5Q7iY)
 
 ## Assignments
 ### **Assignment 1 - Feedback**
