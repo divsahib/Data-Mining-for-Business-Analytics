@@ -61,8 +61,11 @@ This course assumes a reasonable knowledge of Python. If you need a refresher, c
   - [Decision Tree Cassification Part 1 (Before Code)](https://www.youtube.com/watch?v=ZVR2Way4nwQ)
   - [Decision Tree Cassification Part 2 (With Hands-On Code without sklearn)](https://www.youtube.com/watch?v=sgQAhG5Q7iY)
 
+### **Class 8: Data Pipeline & Databricks**
+- [Lecture Notes](C:\Users\User\OneDrive - George Brown College\Business_Web_Social Media Metrics\Class 09\Lecture Notes)
+- Recommended Reading/Videos
 
-## Assignments
+  ## Assignments
 ### **Assignment 1 - Feedback**
 - Feedback File: [[Link to Assignment 1 Feedback](https://georgebrowncollege-my.sharepoint.com/:f:/g/personal/101600320_georgebrown_ca/EmhRlA35M_hJg65AIBFq0SMBpZOzVdfD6NFog8IK83hblQ?e=S9d7r6)]
 
