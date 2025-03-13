@@ -62,7 +62,7 @@ This course assumes a reasonable knowledge of Python. If you need a refresher, c
   - [Decision Tree Cassification Part 2 (With Hands-On Code without sklearn)](https://www.youtube.com/watch?v=sgQAhG5Q7iY)
 
 ### **Class 9: Data Pipeline & Databricks**
-- [Lecture Notes](C:\Users\User\OneDrive - George Brown College\Business_Web_Social Media Metrics\Class 09\Lecture Notes)
+- Lecture Notes[](C:\Users\User\OneDrive - George Brown College\Business_Web_Social Media Metrics\Class 09\Lecture Notes)
 - Recommended Reading/Videos
 
   ## Assignments
