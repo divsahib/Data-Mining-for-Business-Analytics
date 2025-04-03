@@ -85,7 +85,7 @@ This course assumes a reasonable knowledge of Python. If you need a refresher, c
   - [Collaborative Filtering Recommender System With Excel](https://www.youtube.com/watch?v=efW4vPh9snc)
   
 
-### **Class 12: k-Nearest Neighbors (k-NN)
+### **Class 12: k-Nearest Neighbors (k-NN)**
 - [Lecture Notes](https://georgebrowncollege-my.sharepoint.com/my?id=%2Fpersonal%2F101600320%5Fgeorgebrown%5Fca%2FDocuments%2FBusiness%5FWeb%5FSocial%20Media%20Metrics%2FClass%2012%2FLecture%20Notes&ga=1)
 - Recommended Reading/Videos
   - [What is the K-Nearest Neighbor (KNN) Algorithm?](https://www.youtube.com/watch?v=b6uHw7QW_n4&t=340s)
