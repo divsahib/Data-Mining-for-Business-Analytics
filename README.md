@@ -76,9 +76,19 @@ This course assumes a reasonable knowledge of Python. If you need a refresher, c
 
 
 ### **Class 11: Association Rules & Collaborative Filtering**
-
+- [Lecture Notes](https://georgebrowncollege-my.sharepoint.com/:f:/g/personal/101600320_georgebrown_ca/EuzUPjBqFUhEvwItj6t0uJYBIHUbPr0bEQMw_fAxDXVvBQ?e=sTFQcK)
 - Recommended Reading/Videos
-  - [The Apriori Algorithm](https://www.youtube.com/watch?v=guVvtZ7ZClw&t=747s)
+- Association Rules
+  - [Association Analysis (Market Basket Analysis)](https://www.youtube.com/watch?v=icGS26TS1fE)
+  - [Association Rule Mining (Demo using mlxtend in Python)](https://www.youtube.com/watch?v=0yaYwDyBxFA)
+- Collaborative Filtering
+  - [Collaborative Filtering Recommender System With Excel](https://www.youtube.com/watch?v=efW4vPh9snc)
+  
+
+### **Class 12: k-Nearest Neighbors (k-NN)
+- [Lecture Notes](https://georgebrowncollege-my.sharepoint.com/my?id=%2Fpersonal%2F101600320%5Fgeorgebrown%5Fca%2FDocuments%2FBusiness%5FWeb%5FSocial%20Media%20Metrics%2FClass%2012%2FLecture%20Notes&ga=1)
+- Recommended Reading/Videos
+  - [What is the K-Nearest Neighbor (KNN) Algorithm?](https://www.youtube.com/watch?v=b6uHw7QW_n4&t=340s)
  
 
   ## Assignments
