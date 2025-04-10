@@ -96,7 +96,7 @@ This course assumes a reasonable knowledge of Python. If you need a refresher, c
 - [Lecture Notes](https://georgebrowncollege-my.sharepoint.com/my?id=%2Fpersonal%2F101600320%5Fgeorgebrown%5Fca%2FDocuments%2FBusiness%5FWeb%5FSocial%20Media%20Metrics%2FClass%2013%2FLecture%20Notes&ga=1)
 - Recommended Reading/Videos
   - [[Hierarchical Cluster Analysis [Simply explained]]](https://www.youtube.com/watch?v=7xHsRkOdVwo)
-  - [How to Build Your First KNN Python Model in scikit-learn (K Nearest Neighbors)](https://www.youtube.com/watch?v=Nz73vXn5afE)
+  - [Customer Segmentation Using K-Means Clustering | Machine Learning | GeeksforGeeks](https://www.youtube.com/watch?v=7J3mz9LMjqg)
 
 
   ## Assignments
